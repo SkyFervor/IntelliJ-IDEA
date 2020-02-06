@@ -1,22 +1,8 @@
 <application>
+  <component name="DaemonCodeAnalyzerSettings" profile="My" />
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="18" />
-    <option name="FONT_FAMILY" value="Consolas" />
     <option name="LINE_SPACING" value="1.1" />
-    <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Source Code Pro" />
-  </component>
-  <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="JAVA" value="true" />
-      </map>
-    </option>
-    <option name="USE_SOFT_WRAPS" value="" />
-    <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
   </component>
 </application>

@@ -3,35 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.jsp</mask>
-      <mask>p</mask>
-      <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>.xml</mask>
-      <mask>p.xml</mask>
-      <mask>po.xml</mask>
-      <mask>pom.xml</mask>
-      <mask>*。</mask>
-      <mask>*</mask>
-      <mask>java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.x</mask>
-      <mask>*.x'm'l</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
   </component>
 </application>
